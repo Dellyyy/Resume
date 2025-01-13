@@ -7,7 +7,7 @@
   <a href="https://vk.com/delyyy/">
   <img src="https://img.shields.io/badge/Вконтакте-blue?style=for-the-badge&logo=VK&logoColor=white"/>
   </a>
-  <a href="https://www.faceit.com/ru/players/Delyyy-"
+  <a href="https://www.faceit.com/ru/players/Delyyy-">
   <img src="https://img.shields.io/badge/Faceit-black?style=for-the-badge&logo=Faceit&logoColor=orange"/>
   </a>
   <a href="https://steamcommunity.com/profiles/76561199070251239">
