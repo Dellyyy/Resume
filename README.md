@@ -4,11 +4,15 @@
   <div id="header" align="center"><div><b>Вас приветствует VessPivo Co.</b></div></div><br>
 <div id="header" align="center">
 <div id="badges">
-  <a href="https://www.faceit.com/ru/players/Delyyy-">
+  <a href="https://vk.com/delyyy/">
   <img src="https://img.shields.io/badge/Вконтакте-blue?style=for-the-badge&logo=VK&logoColor=white"/>
   </a>
+  <a href="https://www.faceit.com/ru/players/Delyyy-"
   <img src="https://img.shields.io/badge/Faceit-black?style=for-the-badge&logo=Faceit&logoColor=orange"/>
+  </a>
+  <a href="https://steamcommunity.com/profiles/76561199070251239">
   <img src="https://img.shields.io/badge/Steam-gray?style=for-the-badge&logo=Steam&logoColor=white"/>
+  </a>
 </div><br>
 
 :white_check_mark:[Твайн с ПК-Зачёт](https://dellyyy.github.io/ArheticturaApparatnihSredstvv/PK_Zachet.html):white_check_mark:
