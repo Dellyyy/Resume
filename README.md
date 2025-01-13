@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://ru.yougile.com/user-data/79ec0d1a-65c1-46d8-be87-e01ac0f29934/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20(1).png?previews[]=-256-preview@256x256" width="300"/>
+  <img src="https://ru.yougile.com/user-data/19700d40-2319-4599-b6cf-289150f94524/fotor-20250113134849.png?previews[]=-256-preview@256x256" width="300"/>
 </div>
   <div id="header" align="center"><div><b>Вас приветствует VessPivo Co.</b></div></div>
 <div id="header" align="center">
