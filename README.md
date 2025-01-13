@@ -4,8 +4,10 @@
   <div id="header" align="center"><div><b>Вас приветствует VessPivo Co.</b></div></div><br>
 <div id="header" align="center">
 <div id="badges">
+  <a href="https://www.faceit.com/ru/players/Delyyy-">
   <img src="https://img.shields.io/badge/Вконтакте-blue?style=for-the-badge&logo=VK&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Faceit-black?style=for-the-badge&logo=Faceit&logoColor=orange"/><a href="https://www.faceit.com/ru/players/Delyyy-"></a>
+  </a>
+  <img src="https://img.shields.io/badge/Faceit-black?style=for-the-badge&logo=Faceit&logoColor=orange"/>
   <img src="https://img.shields.io/badge/Steam-gray?style=for-the-badge&logo=Steam&logoColor=white"/>
 </div><br>
 
