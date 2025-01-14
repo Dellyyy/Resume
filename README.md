@@ -6,7 +6,7 @@
 <br>
 <div id="header" align="center">
 <div id="badges">
-  <a href="https://vk.com/delyyy/">
+  <a href="https://m.vk.com/dellyyy">
   <img src="https://img.shields.io/badge/Вконтакте-blue?style=for-the-badge&logo=VK&logoColor=white"/>
   </a>
   <a href="https://www.faceit.com/ru/players/Delyyy-">
