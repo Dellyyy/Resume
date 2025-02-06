@@ -13,4 +13,4 @@
 
 :heart::white_check_mark:[Единая база данных(в разработке)](https://docs.google.com/spreadsheets/d/1d2jahLvzirZ1s-wgMzSP6sDAbTwKDW2w/edit?usp=sharing&ouid=105651576498420053651&rtpof=true&sd=true):white_check_mark::heart:
 
-:heart::white_check_mark:[ТГ-бот)](https://colab.research.google.com/drive/1QjatyX0cNDM2GshPEQHBFRmV8XFzo1OP?usp=sharing):white_check_mark::heart:
+:heart::white_check_mark:[ТГ-бот](https://colab.research.google.com/drive/1QjatyX0cNDM2GshPEQHBFRmV8XFzo1OP?usp=sharing):white_check_mark::heart:
